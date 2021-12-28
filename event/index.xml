@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | 网站</title>
+    <link>https://example.com/event/</link>
+      <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://example.com/event/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://example.com/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>中国音乐学院2022年寒假考级</title>
+      <link>https://example.com/talk/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A22022%E5%B9%B4%E5%AF%92%E5%81%87%E8%80%83%E7%BA%A7/</link>
+      <pubDate>Wed, 01 Dec 2021 11:24:29 +0800</pubDate>
+      <guid>https://example.com/talk/%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A22022%E5%B9%B4%E5%AF%92%E5%81%87%E8%80%83%E7%BA%A7/</guid>
+      <description>&lt;h2 id=&#34;报名&#34;&gt;报名&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;报名时间&lt;/strong&gt;：2021年12月10日—12月20日（早8:00-晚9:00）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;补报名时间&lt;/strong&gt;：2021年12月27日至12月29日（早8:30-晚9:00）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;报名方式&lt;/strong&gt;：网站或者公众号【中国音乐学院考级艺术中心】&lt;/p&gt;
+&lt;h2 id=&#34;考试&#34;&gt;考试&lt;/h2&gt;
+&lt;p&gt;视频提交时间：2022年1月1日—2022年1月10日（全天24小时）&lt;/p&gt;
+&lt;p&gt;专业考试方式：线上提交视频&lt;/p&gt;
+&lt;h2 id=&#34;注意事项&#34;&gt;注意事项&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;线上注册：需上传近期免冠2寸电子版证件照（3.5*4.9格式，底色均可），证书彩色打印使用&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;专业视频考试建议录制视频分辨率小于等于720P&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;视频录制时需报幕，自报姓名、专业、级别和曲目；演奏要一气呵成&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;演奏时间要求：每首曲目均有时间要求，1-4级需控制在3分钟以内，5-7级需控制在5分钟以内；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;演奏：反复标记的曲目一律不反复演奏，但一定要展示曲目中的&lt;strong&gt;快板&lt;/strong&gt;部分&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;手机拍摄：演唱或者演奏录制时横屏（拍摄角度参考系统提示画面），画面间距控制在1.5米到2米之间&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;拍摄场景：着装得体大方；要求考生的人脸、手指、乐器子同一画面，全程不能离开画面，不能出现其他人&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;考试成绩查询时间及证书发放时间另行通知（央音是45个工作日，2个月左右）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以上信息来源于公众号2021年12月1日发布的通知内容&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

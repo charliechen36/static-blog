@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>圆号 | 网站</title>
+    <link>https://example.com/category/%E5%9C%86%E5%8F%B7/</link>
+      <atom:link href="https://example.com/category/%E5%9C%86%E5%8F%B7/index.xml" rel="self" type="application/rss+xml" />
+    <description>圆号</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Tue, 28 Dec 2021 11:20:18 +0800</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>圆号</title>
+      <link>https://example.com/category/%E5%9C%86%E5%8F%B7/</link>
+    </image>
+    
+    <item>
+      <title>圆号练习</title>
+      <link>https://example.com/project/french-horn/</link>
+      <pubDate>Tue, 28 Dec 2021 11:20:18 +0800</pubDate>
+      <guid>https://example.com/project/french-horn/</guid>
+      <description>&lt;h2 id=&#34;练习曲1&#34;&gt;练习曲1&lt;/h2&gt;
+&lt;h2 id=&#34;练习曲2&#34;&gt;练习曲2&lt;/h2&gt;
+&lt;h2 id=&#34;练习曲3&#34;&gt;练习曲3&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>中国音乐学院等级考试--圆号</title>
+      <link>https://example.com/post/standard-grade-exam/</link>
+      <pubDate>Tue, 28 Dec 2021 10:03:05 +0800</pubDate>
+      <guid>https://example.com/post/standard-grade-exam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
